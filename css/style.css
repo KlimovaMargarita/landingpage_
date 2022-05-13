@@ -1,0 +1,169 @@
+.started {
+  padding: 50px 120px;
+}
+
+.main-title {
+  font-family: 'Arapey';
+  color: #9DB0D1;
+  font-size: 60px;
+  line-height: 66px;
+  text-align: center;
+  margin: 50px 0 50px 0;
+}
+
+.subtitle {
+  text-align: center;
+  color: #000000;
+  margin: 0 88px 50px 88px;
+}
+
+.button.button-started {
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 50px;
+}
+
+.button {
+  width: 267px;
+  height: 80px;
+  border-radius: 10px;
+  border: none;
+  background: #EBAC87;
+  font-family: 'Arapey';
+  font-size: 30px;
+  line-height: 32px;
+  color: #FFFFFF;
+  text-transform: uppercase;
+}
+
+.button:hover {
+  background: #FFFFFF;
+  color: #EBAC87;
+  border: 3px solid #EBAC87;
+}
+.list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.icon-list {
+  display: flex;
+  align-items: center;
+}
+
+.img-list {
+  margin-right: 15px;
+}
+
+.cloud {
+  background: repeat-x top / auto 200px, linear-gradient(180deg, rgba(135, 198, 235, 0) 8.33%, #87C6EB 93.06%);
+  height: 344px;
+  padding: 0 10px;
+}
+
+.cloud-img {
+  width: 1420px;
+  height: 200px;
+}
+
+.title2 {
+  font-family: 'Arapey';
+  font-size: 40px;
+  line-height: 44px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.mountains {
+  background: #87C6EB;
+  padding: 0 120px;
+} 
+
+.list2 {
+  display: flex;
+  justify-content:space-between;
+  margin-bottom: 35px;
+}
+
+.card {
+  width: 350px;
+  height: 560px;
+  background: #FFFFFF;
+  border-radius: 10px;
+  padding: 20px;
+}  
+
+.icon-card {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 10px;
+  display: flex;
+}
+
+.img-card {
+  width: 310px;
+  height: 310px;
+  background: #EBAC87;
+}
+
+.text-card {
+  margin-right: 50px;
+  text-align: left;
+}
+
+.important {
+  font-weight: bold;
+}
+
+.title3 {
+  width: 600px;
+  height: 132px;
+  font-family: 'Arapey';
+  font-size: 40px;
+  line-height: 44px;
+  color: #FFFFFF;
+  margin-bottom: 50px;
+}
+.subtitle3 {
+  width: 600px;
+  margin-bottom: 50px;
+}
+.mountains-text {
+  background: url(../img/mount.png) bottom right / auto 475px no-repeat;
+  min-height: 475px;
+  padding: 40px 0 0 0;
+}
+.button.button-chekin {
+  width: 220px;
+  height: 80px;
+  background: #FFFFFF;
+  color: #EBAC87;
+ }
+
+.button-chekin:hover {
+  background: #EBAC87;
+  color: #FFFFFF;
+} 
+
+.question-icon {
+  width: 80px;
+  height: 80px;
+ }
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+}
+
+.get {
+  padding: 50px 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.social-icons {
+  width: 180px;
+  display: flex;
+  justify-content: space-around;
+}
